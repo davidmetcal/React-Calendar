@@ -1,7 +1,4 @@
-// const API_KEY = "UrdN1sAqVc68VxfSt2vKQSTUk0TAK97t";
 const API_KEY = "sxBV8WX0KXGGfbGD3899Alg8w7hfvhJg";
-//this hasnt been working
-// const API_KEY = "shuqtIiN9G6TSvGsUJQlPghgTtoAu1Ca";
 
 export const getListOfTowns = async (city) => {
   return await fetch(
